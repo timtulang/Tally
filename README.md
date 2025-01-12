@@ -12,3 +12,13 @@ OR
 
 email: danielcamacho0416gmail.com
 password: teamrocket
+
+
+*** Add Students as a Teacher 
+Login as a student using nicknames
+- Tim
+- Daniel
+- King
+- Jona
+
+Or ADD a new user a a teacher
