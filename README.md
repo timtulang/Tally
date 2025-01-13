@@ -22,3 +22,5 @@ Login as a student using nicknames
 - Jona
 
 Or ADD a new user a a teacher
+
+Update: WE WON!!
